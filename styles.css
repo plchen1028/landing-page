@@ -3,7 +3,8 @@ h1, h2, p, a {
 }
 
 img {
-    max-width: 200px;
+    max-width: 150px;
+    border-radius: 15px;
 }
 
 h1, h2 {
@@ -34,6 +35,10 @@ button {
     padding-bottom: 50px;
 }
 
+.hope {
+    min-width: 300px;
+}
+
 .header {
     display: flex;
     flex-direction: row;
@@ -59,4 +64,22 @@ button {
     display: flex;
     flex-direction: column;
     padding-right: 100px;
+}
+
+.random {
+    color: black;
+    text-align: center;
+}
+
+.pictures {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
 }
