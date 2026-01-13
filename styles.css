@@ -83,3 +83,20 @@ button {
     align-items: center;
     padding: 15px;
 }
+
+.section5 {
+    background-color: #e5e7eb;
+    padding: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color:#1f2937;
+}
+
+.normal {
+    text-align: right;
+    font-weight: bold;
+}
